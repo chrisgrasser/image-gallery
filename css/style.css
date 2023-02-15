@@ -1,0 +1,17 @@
+html, body {
+    background-image: url("../img/kseniya-lapteva-qgWQuzpazWw-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    background-color: #191919;
+    border: 3px solid white;
+    border-radius: 10px;
+    color: white;
+}
+
+a, a:hover, a:focus, a:visited, a:active, a:link {
+    color: white;
+}
